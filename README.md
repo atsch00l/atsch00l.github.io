@@ -1,2 +1,2 @@
 # atsch00l.github.io
-games
+Games for school computers that are hopefully unblocked by proxy
